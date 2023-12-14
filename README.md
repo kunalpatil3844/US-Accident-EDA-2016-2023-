@@ -1,14 +1,16 @@
 # US-Accident-EDA-2016-2023-
 EDA:
+
 Exploratory Data Analysis (EDA) is a critical step in any data analysis project. It involves analyzing, visualizing, and summarizing the data to gain insights and identify patterns. EDA helps to uncover important relationships between variables and can be used to inform further analysis, modeling, or decision-making.
 
 
 About Data:
+
 The US Accidents (2016-2023) dataset available on Kaggle is a rich source of information about traffic accidents that occurred in the United States over a period of five years. This dataset is compiled from various sources, including traffic cameras, police reports, and other public data sources.
 
 
 Question regarding EDA:
-Highest Accident?
+
 1.How many States and Cities are included in the accident Dataset?
 2.Which Cities and Stateshave the highest number of accidents? About timing of the accidents
 3.At what time of the day are accidents most frequent in?
@@ -19,6 +21,7 @@ Highest Accident?
 
 
 Summary and Conclusion
+
 . 4.3% that is 472 cities out of the over 10931 cities recorded 1000 or more accidents. 10459 cities recorded less than 1000 accidents
 . 8.3% that is 917 cities recorded only 1 accidents during the year, which is not conveniencing data.
 . High percentage of accidents occured between 3 to 5 pm; probably because of high traffic around that time because most people will be finding their way back home from work.
