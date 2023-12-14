@@ -29,13 +29,21 @@ Question regarding EDA:
 Summary and Conclusion
 
 . 4.3% that is 472 cities out of the over 10931 cities recorded 1000 or more accidents. 10459 cities recorded less than 1000 accidents
+
 . 8.3% that is 917 cities recorded only 1 accidents during the year, which is not conveniencing data.
+
 . High percentage of accidents occured between 3 to 5 pm; probably because of high traffic around that time because most people will be finding their way back home from work.
-. On the other hand, the number of accidents in the morning peaks from 5am to 10am and the begins to drop until it start to peak again around 1pm. This can also be inferred from rush hour traffic during those hours 
-   in the morning to commute to work
+
+. On the other hand, the number of accidents in the morning peaks from 5am to 10am and the begins to drop until it start to peak again around 1pm. This can also be inferred from rush hour traffic during those 
+  hours in the morning to commute to work.
+  
 . The highest number of accidents occured on Friday The data proves that accidents rate during week days are relatively steep whilst it drops sharply on weekends
+
 . The day with the lowest accident occurence is Sunday, this may be attributable to the fact that traffic is very low on sunday and most people tend to stay home with their families
+
 . During the day time of sunday, accident counts starts increasing from 10 am to 6pm and then starts dropping
+
 . On Sunday maximum accidents occur in the range time 2pm to 6 pm
+
 . The data proved that the hourly accident distribution on weekends is different from weekdays. Unlike weekdays, the highest accident occurences on weekends were recorded between the hours of 10 am to 6pm. The 
   highest occurences are recorded at 3pm.
