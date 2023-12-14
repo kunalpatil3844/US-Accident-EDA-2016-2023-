@@ -12,11 +12,17 @@ The US Accidents (2016-2023) dataset available on Kaggle is a rich source of inf
 Question regarding EDA:
 
 1.How many States and Cities are included in the accident Dataset?
+
 2.Which Cities and Stateshave the highest number of accidents? About timing of the accidents
+
 3.At what time of the day are accidents most frequent in?
+
 4.which days of the week and which Month during the year have more accidents?
+
 5.what is the trends of accidents year over year (increasing / decreasing?).
+
 6.is the distribution of accidents by hour the same on weekends as on weekdays.
+
 
 
 
